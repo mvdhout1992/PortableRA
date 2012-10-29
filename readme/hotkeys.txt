@@ -1,0 +1,311 @@
+To remap a key:
+1) Find the command you wish to change.
+2) Look up the key assignment number on the chart below for the key you wish to assign the command to.
+3) Change the number in the redalert.ini file.
+4) Save the file and start the game.
+
+Thereafter, the command will be assigned to your chosen key, until you re-edit the INI file.
+
+It is OK to assign more than one key to a single function, but it is NOT OK to assign more than one function to a single key.
+
+Key Assignment Number Chart:
+
+KEY     WIN95 #
+
+NONE          0
+
+0            48
+
+1            49
+
+2            50
+
+3            51
+
+4            52
+
+5            53
+
+6            54
+
+7            55
+
+8            56
+
+9            57
+
+A            65
+
+B            66
+
+C            67
+
+D            68
+
+E            69
+
+F            70
+
+G            71
+
+H            72
+
+I            73
+
+J            74
+
+K            75
+
+L            76
+
+M            77
+
+N            78
+
+O            79
+
+P            80
+
+Q            81
+
+R            82
+
+S            83
+
+T            84
+
+U            85
+
+V            86
+
+W            87
+
+X            88
+
+Y            89
+
+Z            90
+
+-            --
+
+'            --
+
+,            --
+
+.            --
+
+;            --
+
+~            --
+
+=            --
+
+BACKSPACE      8
+
+CAP LOCK      20
+
+DELETE        46
+
+END           35
+
+ENTER         --
+
+ESC           27
+
+F1           112
+
+F2           113
+
+F3           114
+
+F4           115
+
+F5           116
+
+F6           117
+
+F7           118
+
+F8           119
+
+F9           120
+
+F10          121
+
+F11          122
+
+F12          123
+
+HOME          36
+
+INSERT        45
+
+L ALT         18
+
+L CTRL        17
+
+L SHIFT       16
+
+PAGE DOWN     --
+
+PAGE UP       --
+
+PAUSE         19
+
+PRINT SCREEN  44
+
+R ALT         18
+
+R CTRL        17
+
+R SHIFT       16
+
+SCROLL LOCK  145
+
+SPACE         32
+
+TAB           --
+
+UP ARROW      38
+
+LEFT ARROW    37
+
+RIGHT ARROW   39
+
+DOWN ARROW    40
+
+*NUMERIC KEYPAD*
+
+NUM LOCK     144
+
+0             96
+
+1             97
+
+2             98
+
+3             99
+
+4            100
+
+5            101
+
+6            102
+
+7            103
+
+8            104
+
+9            105
+
+.            110
+
+ /           111
+
+*            106
+
+-            109
+
++            107
+
+ENTER        108
+
+
+
+Using arrow keys to scroll the map
+rather than the sidebar is possible using this feature.
+
+Windows settings:
+WinHotkeys
+KeySidebarUp=38
+KeySidebarDown=40
+KeyScrollLeft =0
+KeyScrollRight=0
+KeyScrollUp=0
+KeyScrollDown=0
+
+Notice that the scroll map functions are set to zero (no key). To allow the map to scroll with the keys, we have to assign the keys like so:
+
+WinHotkeys
+KeySidebarUp=0
+KeySidebarDown=0
+KeyScrollLeft=37
+KeyScrollRight=39
+KeyScrollUp=38
+KeyScrollDown=40
+
+Note that the Sidebar functions must be set to zero, otherwise you have two things happening with one key.
+I use the Numeric Keypad to scroll and it looks like this..
+
+WinHotkeys
+KeyScrollLeft=100
+KeyScrollRight=102
+KeyScrollUp=104
+KeyScrollDown=98
+
+
+Example...
+KeyBookmark1=90
+KeyBookmark2=87
+KeyBookmark3=82
+..this changes F9-F11 to Z,W,and R
+KeyScrollLeft=100
+KeyScrollRight=102
+KeyScrollUp=104
+KeyScrollDown=98
+..this lets you scroll with 2,4,6,8 on the numeric keypad..it helps me position the screen so i can place structures faster and make a perfect bookmark.
+
+
+These are the original red alert ini Win Hot keys settings.
+
+WinHotkeys
+KeyForceMove1=18
+KeyForceMove2=18
+KeyForceAttack1=17
+KeyForceAttack2=17
+KeySelect1=16
+KeySelect2=16
+KeyScatter=88
+KeyStop=83
+KeyGuard=71
+KeyNext=78
+KeyPrevious=66
+KeyFormation=70
+KeyHome1=36
+KeyHome2=103
+KeyBase=72
+KeyResign=82
+KeyAlliance=65
+KeyBookmark1=120
+KeyBookmark2=121
+KeyBookmark3=122
+KeyBookmark4=123
+KeySelectView=69
+KeyRepairToggle=84
+KeyRepairOn=0
+KeyRepairOff=0
+KeySellToggle=89
+KeySellOn=0
+KeySellOff=0
+KeyMapToggle=85
+KeySidebarUp=38
+KeySidebarDown=40
+KeyOption1=27
+KeyOption2=32
+KeyScrollLeft=0
+KeyScrollRight=0
+KeyScrollUp=0
+KeyScrollDown=0
+KeyQueueMove1=81
+KeyQueueMove2=81
+KeyTeam1=49
+KeyTeam2=50
+KeyTeam3=51
+KeyTeam4=52
+KeyTeam5=53
+KeyTeam6=54
+KeyTeam7=55
+KeyTeam8=56
+KeyTeam9=57
+KeyTeam10=48
+

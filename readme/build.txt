@@ -1,0 +1,87 @@
+-----------------------------------------------------------------------
+Unofficial Red Alert build by the community, updated on October 28, 2012.
+-----------------------------------------------------------------------
+http://redalert1.com - http://cncnet.org - http://redalert1.tk - http://cnc-comm.com
+
+This build was made by players for the players, that were struggling to play Red Alert 1 online.
+
+Key features are:
+
+	- Game manual included
+	- Counterstrike and Aftermath expansions included (both can be enabled/disabled)
+	- Better multi-core/SMP compatiblity
+	- Better Windows Vista/7 compatibility
+	- Better Wine compatibility
+	- CnCNet network server for 8player multiplayer
+	- Color fix also for non-ddraw.dll users (colorfix.reg)
+	- Crash fixes (3.03p3)
+	- Multicore support
+	- Network command line argument -lan
+	- No CD required
+	- No registry entries required
+	- Resolution stretching
+	- Play expansion maps without having expansion(s) enabled
+	- Optional small infantry patch
+	- Fix for 'Situation Critical' mission
+	- Fix for a few snow smudge tiles
+	- LAN patch to enable network games on modern operating systems
+	- New Red Alert/CnC-ddraw/CnCNet configuration tool
+
+Dropped features:
+
+	- DOS support
+	- Game intro video
+	- Music
+	- Movies
+	- WOLapi
+	- Map editor
+	- rasetup.exe (replaced by new RedAlertConfig tool)
+
+Files
+----
+
+/pkt						- Folder with .pkt files, these are text files that control the multiplayer map list
+/readme						- Folder that contains readme text files
+/optional					- Folder that contains optional stuff
+main.mix                	- Stripped down game data file
+mpgdll.dll              	- Used by RA95.exe 3.03 and up
+RedAlertConfig.exe			- Red Alert configuration tool
+ra95.exe                	- Red Alert 95 version 3.03p3
+redalert.ini          		- Red Alert configuration file
+redalert.mix           	 	- Stripped down game data file
+cncnet.exe/ini          	- CnCNet, used for online play (cncnet.org)
+colorfix.reg				- Fixes colours, double click on this if you don't use CnC-ddraw (by ehy)
+ddraw.dll/ddraw.ini			- CnC-ddraw, used for online play (http://hifi.iki.fi/cnc-ddraw/
+wsock32.dll             	- CnCNet, used for online play (cncnet.org)
+/optional/thipx32.dll		- LAN patch, enables use of LAN on modern operating systems
+/optional/sc-*maps.mix		- Contains expansion maps
+/optional/hires1.mix		- Contains optional small infantry patch, rename to disable
+/optional/expand.mix		- Contains Counterstrike expansion data files
+/optional/expand2.mix		- Contains Aftermath expansion data files
+/optional/Force*.ini		- rules.ini "mod" to force an expansion for multiplayer, 
+								all players need to have this rules.ini
+
+ADDED PATCHES / FIXES
+---------------------
+
+ra95.exe:
+    cpu-affinity-0	- by funky
+    cursor-fix-v2       - by hifi
+    deinterlace-01      - by hifi
+    movies2.mix-fix     - by hifi
+    no-cd               - by RA-Archive
+    no-expasions        - by hifi
+    ra303p2             - by hifi
+    wol-digest-valid	- by funky
+    wol-8p-default      - by hifi
+    
+        
+Changed on redalert.ini to avoid too fast scroll speed:
+        VideoBackBuffer=1
+
+Changed on redalert.ini to avoid color problem:
+        HardwareFills=0
+
+Command & Conquer™ and Red Alert™ are registered trademarks of Electronic Arts, all rights reserved.
+The following base was taken from the freeware release of Command & Conquer™: Red Alert™ (http://www.commandandconquer.com/classic)
+and from the official Red Alert 3.03 patch from Westwood Studios.
