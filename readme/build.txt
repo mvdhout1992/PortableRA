@@ -1,5 +1,5 @@
 -----------------------------------------------------------------------
-Unofficial Red Alert build by the community, updated on October 28, 2012.
+Unofficial Red Alert build by the community, updated on October 30, 2012.
 -----------------------------------------------------------------------
 http://redalert1.com - http://cncnet.org - http://redalert1.tk - http://cnc-comm.com
 
@@ -25,7 +25,7 @@ Key features are:
 	- Fix for 'Situation Critical' mission
 	- Fix for a few snow smudge tiles
 	- LAN patch to enable network games on modern operating systems
-	- New Red Alert/CnC-ddraw/CnCNet configuration tool
+	- New Red Alert/CnC-ddraw/CnCNet configuration tool called RedAlertConfig
 
 Dropped features:
 
@@ -40,26 +40,27 @@ Dropped features:
 Files
 ----
 
-/pkt						- Folder with .pkt files, these are text files that control the multiplayer map list
-/readme						- Folder that contains readme text files
-/optional					- Folder that contains optional stuff
-main.mix                	- Stripped down game data file
-mpgdll.dll              	- Used by RA95.exe 3.03 and up
-RedAlertConfig.exe			- Red Alert configuration tool
-ra95.exe                	- Red Alert 95 version 3.03p3
-redalert.ini          		- Red Alert configuration file
-redalert.mix           	 	- Stripped down game data file
-cncnet.exe/ini          	- CnCNet, used for online play (cncnet.org)
-colorfix.reg				- Fixes colours, double click on this if you don't use CnC-ddraw (by ehy)
-ddraw.dll/ddraw.ini			- CnC-ddraw, used for online play (http://hifi.iki.fi/cnc-ddraw/
-wsock32.dll             	- CnCNet, used for online play (cncnet.org)
-/optional/thipx32.dll		- LAN patch, enables use of LAN on modern operating systems
-/optional/sc-*maps.mix		- Contains expansion maps
-/optional/hires1.mix		- Contains optional small infantry patch, rename to disable
-/optional/expand.mix		- Contains Counterstrike expansion data files
-/optional/expand2.mix		- Contains Aftermath expansion data files
-/optional/Force*.ini		- rules.ini "mod" to force an expansion for multiplayer, 
-								all players need to have this rules.ini
+/ConfigToolFiles				- Folder with data files used by RedAlertConfig
+/ConfigToolFiles/pkt			- Folder with .pkt files, these are text files that control the multiplayer map list
+/readme							- Folder that contains readme text files
+main.mix                		- Stripped down game data file
+mpgdll.dll              		- Used by RA95.exe 3.03 and up
+RedAlertConfig.exe				- Red Alert configuration tool
+ra95.exe                		- Red Alert 95 version 3.03p3
+redalert.ini          			- Red Alert configuration file
+redalert.mix           	 		- Stripped down game data file
+cncnet.exe/ini          		- CnCNet, used for online play (cncnet.org)
+colorfix.reg					- Fixes colours, double click on this if you don't use CnC-ddraw (by ehy)
+ddraw.dll/ddraw.ini				- CnC-ddraw, used for online play (http://hifi.iki.fi/cnc-ddraw/
+wsock32.dll             		- CnCNet, used for online play (cncnet.org)
+/ConfigToolFiles/thipx32.dll	- LAN patch, enables use of LAN on modern operating systems
+/ConfigToolFiles/sc-*maps.mix	- Contains expansion maps
+/ConfigToolFiles/hires1.mix		- Contains optional small infantry patch, rename to disable
+/ConfigToolFiles/expand.mix		- Contains Counterstrike expansion data files
+/ConfigToolFiles/expand2.mix	- Contains Aftermath expansion data files
+/ConfigToolFiles/ForceAM.ini	- rules.ini "mod" to force the Aftermath expansion for multiplayer, 
+									all players need to have this rules.ini or they can't join,
+									you can't join other games hosted by people not running this mod
 
 ADDED PATCHES / FIXES
 ---------------------
@@ -74,6 +75,7 @@ ra95.exe:
     ra303p2             - by hifi
     wol-digest-valid	- by funky
     wol-8p-default      - by hifi
+	fix save game bug	- by iran
     
         
 Changed on redalert.ini to avoid too fast scroll speed:
