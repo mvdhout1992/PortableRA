@@ -12,6 +12,15 @@ cncnet.ini
 rasetup.exe
 
 #################
+## Red Alert config
+#################
+
+RedAlertConfig.exe.config
+RedAlertConfig.vshost.exe
+RedAlertConfig.vshost.exe.config
+RedAlertConfig.vshost.exe.manifest
+
+#################
 ## Eclipse
 #################
 
