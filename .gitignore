@@ -1,4 +1,10 @@
 #################
+## Mini Syringe RA
+#################
+
+syringe*
+
+#################
 ## Red Alert
 #################
 
@@ -10,6 +16,8 @@ thipx32.dll
 wsock32.dll
 cncnet.ini
 rasetup.exe
+HALLFAME.DAT
+mpress.exe
 
 #################
 ## Red Alert config
