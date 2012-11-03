@@ -1,5 +1,5 @@
 -----------------------------------------------------------------------
-Unofficial Red Alert build by the community, updated on October 30, 2012.
+Unofficial Red Alert build by the community, updated on November 2, 2012.
 -----------------------------------------------------------------------
 http://redalert1.com - http://cncnet.org - http://redalert1.tk - http://cnc-comm.com
 
@@ -26,6 +26,7 @@ Key features are:
 	- Fix for a few snow smudge tiles
 	- LAN patch to enable network games on modern operating systems
 	- New Red Alert/CnC-ddraw/CnCNet configuration tool called RedAlertConfig
+	- Fixed an issue with the Azroid music track
 
 Dropped features:
 
