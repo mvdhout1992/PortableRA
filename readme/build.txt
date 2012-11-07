@@ -1,5 +1,5 @@
 -----------------------------------------------------------------------
-Unofficial Red Alert build by the community, updated on November 2, 2012.
+Unofficial Red Alert build by the community, updated on November 7, 2012.
 -----------------------------------------------------------------------
 http://redalert1.com - http://cncnet.org - http://redalert1.tk - http://cnc-comm.com
 
@@ -13,21 +13,26 @@ Key features are:
 	- Better Windows Vista/7 compatibility
 	- Better Wine compatibility
 	- CnCNet network server for 8player multiplayer
-	- Color fix also for non-ddraw.dll users (colorfix.reg)
+	- Color fix also for non-ddraw.dll users
 	- Crash fixes (3.03p3)
 	- Multicore support
 	- Network command line argument -lan
 	- No CD required
 	- No registry entries required
 	- Resolution stretching
-	- Play expansion maps without having expansion(s) enabled
 	- Optional small infantry patch
 	- Fix for 'Situation Critical' mission
 	- Fix for a few snow smudge tiles
 	- LAN patch to enable network games on modern operating systems
 	- New Red Alert/CnC-ddraw/CnCNet configuration tool called RedAlertConfig
 	- Fixed an issue with the Azaroid music track
-	- Added electrocution death animations for interior theatre
+	- Added some extra tiles to the interior theatre
+	- Fixed "Don't Drink the Water" Afermath mission tutorial text
+		(the game tells you to destroy a building that needs to be captured)
+	- Mention rules.ini incompatiblity when trying to join a non-modded online game 
+		while having a custom rules.ini file loaded
+	- Fix for rare save game bug where the game thinks there's low disk space 
+		remaining while there's plenty
 	
 
 Dropped features:
