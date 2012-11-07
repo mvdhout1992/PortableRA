@@ -20,6 +20,7 @@ Key features are:
 	- No CD required
 	- No registry entries required
 	- Resolution stretching
+	- High resolution patch
 	- Optional small infantry patch
 	- Fix for 'Situation Critical' mission
 	- Fix for a few snow smudge tiles
