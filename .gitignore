@@ -30,10 +30,19 @@ scores.mix
 scores-extra.mix
 movies1.mix
 movies-tlf.mix
-
+SAVEGAME.*
 
 #################
-## Red Alert config
+## Red Alert Launcher
+#################
+
+RedAlertLauncher.exe.config
+RedAlertLauncher.vshost.exe
+RedAlertLauncher.vshost.exe.config
+RedAlertLauncher.vshost.exe.manifest
+
+#################
+## Red Alert Config
 #################
 
 RedAlertConfig.exe.config
