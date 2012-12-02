@@ -18,6 +18,19 @@ cncnet.ini
 rasetup.exe
 HALLFAME.DAT
 mpress.exe
+blackbackground.pcx
+oos-fix.ini
+*.mpr
+*.MPR
+wsock32.dll
+recon.txt
+music.ini
+NEWMISSIONS.INI
+scores.mix
+scores-extra.mix
+movies1.mix
+movies-tlf.mix
+
 
 #################
 ## Red Alert config
