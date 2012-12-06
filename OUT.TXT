@@ -1,94 +1,85 @@
-CRC[0]=a932a87
-CRC[1]=c7c8b14f
-CRC[2]=bfc85d75
-CRC[3]=bb488eca
-CRC[4]=b348d7f5
-CRC[5]=b348cec7
-CRC[6]=a6c86062
-CRC[7]=a6c85e5f
-CRC[8]=9f38b3c2
-CRC[9]=9ab89f5b
-CRC[10]=abf10e61
-CRC[11]=abf1295c
-CRC[12]=abf1222b
-CRC[13]=abf136d9
-CRC[14]=abf113bc
-CRC[15]=6b49b863
-CRC[16]=4b438b56
-CRC[17]=2b895f53
-CRC[18]=ba76a0b
-CRC[19]=ebc0f016
-CRC[20]=cbbb0fd8
-CRC[21]=adf12102
-CRC[22]=8e06ee65
-CRC[23]=6e18e01b
-CRC[24]=48fd46dc
-CRC[25]=2964758c
-CRC[26]=54b10df
-CRC[27]=c2888761
-CRC[28]=9c576c7e
-CRC[29]=79a63135
-CRC[30]=5375644f
-CRC[31]=35446aa8
-ŸunkyŸr3sh: IsHuman:1  Color:Yellow  ID:12  ActLike:USSR
-iran: IsHuman:1  Color:Red  ID:13  ActLike:Germany
+CRC[0]=ae3b955e
+CRC[1]=ae138ad3
+CRC[2]=ae13c5ef
+CRC[3]=ae13b7bc
+CRC[4]=adebfade
+CRC[5]=75ec55e8
+CRC[6]=f5389ea2
+CRC[7]=75253d6a
+CRC[8]=f50f49de
+CRC[9]=745996a3
+CRC[10]=f4425ca4
+CRC[11]=742e4e1e
+CRC[12]=f378aabb
+CRC[13]=735f0d11
+CRC[14]=f34bac64
+CRC[15]=d293f4a4
+CRC[16]=b27a7398
+CRC[17]=9260bd2d
+CRC[18]=71a54a6b
+CRC[19]=518d9124
+CRC[20]=31746d59
+CRC[21]=70b76956
+CRC[22]=b09a8864
+CRC[23]=f07d68ec
+CRC[24]=2fc04b03
+CRC[25]=8fd7bcad
+CRC[26]=ae8bc205
+CRC[27]=ae639b43
+CRC[28]=ae63cc46
+CRC[29]=ae63d7ac
+CRC[30]=ae3bd2c6
+CRC[31]=ae3bda9c
+ŸunkyŸr3sh1: IsHuman:1  Color:Yellow  ID:12  ActLike:Germany
+iran: IsHuman:1  Color:Red  ID:13  ActLike:USSR
 -------------------- Multi1 Infantry -------------------
-COORD:29402940   Facing:96   Mission:5   Type:4   Tgt:d000000 Speed:0 NavCom:0
-COORD:2a402740   Facing:96   Mission:5   Type:4   Tgt:d000001 Speed:0 NavCom:0
-COORD:ffffffff   Facing:0   Mission:-1   Type:4   Tgt:d000003 Speed:0 NavCom:0
--------------------- Multi2 Infantry -------------------
 COORD:ffffffff   Facing:0   Mission:-1   Type:4   Tgt:d000002 Speed:0 NavCom:0
+-------------------- Multi2 Infantry -------------------
 -------------------- Multi1 Units -------------------
 -------------------- Multi2 Units -------------------
 -------------------- Multi1 Vessels -------------------
 -------------------- Multi2 Vessels -------------------
 -------------------- Multi1 Buildings -------------------
-COORD:2c003000   Facing:0   Mission:5   Type:11   Tgt:5000000
-COORD:28002d00   Facing:0   Mission:5   Type:17   Tgt:5000001
-COORD:27002b00   Facing:0   Mission:5   Type:21   Tgt:5000004
-COORD:27002800   Facing:0   Mission:5   Type:21   Tgt:5000006
-COORD:28002600   Facing:0   Mission:5   Type:21   Tgt:5000007
+COORD:2c002f00   Facing:0   Mission:5   Type:11   Tgt:5000000
+COORD:29002c00   Facing:0   Mission:5   Type:17   Tgt:5000001
+COORD:26002900   Facing:0   Mission:5   Type:22   Tgt:5000004
+COORD:24002600   Facing:0   Mission:5   Type:22   Tgt:5000005
+COORD:ffffffff   Facing:0   Mission:-1   Type:22   Tgt:5000008
 -------------------- Multi2 Buildings -------------------
-COORD:21002100   Facing:0   Mission:5   Type:11   Tgt:5000002
+COORD:21002100   Facing:0   Mission:19   Type:11   Tgt:5000002
 COORD:21002500   Facing:0   Mission:5   Type:17   Tgt:5000003
-COORD:23002800   Facing:0   Mission:5   Type:22   Tgt:5000005
-COORD:23002b00   Facing:0   Mission:5   Type:22   Tgt:5000008
+COORD:25002300   Facing:0   Mission:5   Type:21   Tgt:5000006
+COORD:22002800   Facing:0   Mission:17   Type:21   Tgt:5000007
 -------------------- Animations -------------------
 >>>> MAP LAYER 0 <<<<
 >>>> MAP LAYER 1 <<<<
 Object 0: 21002500 Building  (Type:17) Owner: Multi2
-Object 1: 21002100 Building  (Type:11) Owner: Multi2
-Object 2: 23002800 Building  (Type:22) Owner: Multi2
-Object 3: 23002b00 Building  (Type:22) Owner: Multi2
-Object 4: 27002800 Building  (Type:21) Owner: Multi1
-Object 5: 27002b00 Building  (Type:21) Owner: Multi1
-Object 6: 28002600 Building  (Type:21) Owner: Multi1
-Object 7: 29402940 Infantry  (Type:4) Owner: Multi1
-Object 8: 28002d00 Building  (Type:17) Owner: Multi1
-Object 9: 2a402740 Infantry  (Type:4) Owner: Multi1
-Object 10: 2c003000 Building  (Type:11) Owner: Multi1
+Object 1: 22002800 Building  (Type:21) Owner: Multi2
+Object 2: 21002100 Building  (Type:11) Owner: Multi2
+Object 3: 24002600 Building  (Type:22) Owner: Multi1
+Object 4: 25002300 Building  (Type:21) Owner: Multi2
+Object 5: 26002900 Building  (Type:22) Owner: Multi1
+Object 6: 29002c00 Building  (Type:17) Owner: Multi1
+Object 7: 2c002f00 Building  (Type:11) Owner: Multi1
 >>>> MAP LAYER 2 <<<<
 >>>> MAP LAYER 3 <<<<
 >>>> LOGIC LAYER <<<<
-Object 0: 2c003000 Building  (Type:11) Owner: Multi1
+Object 0: 2c002f00 Building  (Type:11) Owner: Multi1
 Object 1: 21002100 Building  (Type:11) Owner: Multi2
-Object 2: 28002d00 Building  (Type:17) Owner: Multi1
-Object 3: 21002500 Building  (Type:17) Owner: Multi2
-Object 4: 27002b00 Building  (Type:21) Owner: Multi1
-Object 5: 27002800 Building  (Type:21) Owner: Multi1
-Object 6: 23002800 Building  (Type:22) Owner: Multi2
-Object 7: 29402940 Infantry  (Type:4) Owner: Multi1
-Object 8: 28002600 Building  (Type:21) Owner: Multi1
-Object 9: 23002b00 Building  (Type:22) Owner: Multi2
-Object 10: 2a402740 Infantry  (Type:4) Owner: Multi1
+Object 2: 29002c00 Building  (Type:17) Owner: Multi1
+Object 3: 26002900 Building  (Type:22) Owner: Multi1
+Object 4: 21002500 Building  (Type:17) Owner: Multi2
+Object 5: 24002600 Building  (Type:22) Owner: Multi1
+Object 6: 25002300 Building  (Type:21) Owner: Multi2
+Object 7: 22002800 Building  (Type:21) Owner: Multi2
 
-Random Number:af1209b4
-My Frame:1065
+Random Number:7bfef29e
+My Frame:1284
 
 Offending event:
   Type:         25
-  Frame:        1065
+  Frame:        1284
   ID:           c
-  CRC:          12932a87
-  CommandCount: 44
+  CRC:          ae63da9c
+  CommandCount: 40
   Delay:        9
