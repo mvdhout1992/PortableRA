@@ -1,85 +1,132 @@
-CRC[0]=ae3b955e
-CRC[1]=ae138ad3
-CRC[2]=ae13c5ef
-CRC[3]=ae13b7bc
-CRC[4]=adebfade
-CRC[5]=75ec55e8
-CRC[6]=f5389ea2
-CRC[7]=75253d6a
-CRC[8]=f50f49de
-CRC[9]=745996a3
-CRC[10]=f4425ca4
-CRC[11]=742e4e1e
-CRC[12]=f378aabb
-CRC[13]=735f0d11
-CRC[14]=f34bac64
-CRC[15]=d293f4a4
-CRC[16]=b27a7398
-CRC[17]=9260bd2d
-CRC[18]=71a54a6b
-CRC[19]=518d9124
-CRC[20]=31746d59
-CRC[21]=70b76956
-CRC[22]=b09a8864
-CRC[23]=f07d68ec
-CRC[24]=2fc04b03
-CRC[25]=8fd7bcad
-CRC[26]=ae8bc205
-CRC[27]=ae639b43
-CRC[28]=ae63cc46
-CRC[29]=ae63d7ac
-CRC[30]=ae3bd2c6
-CRC[31]=ae3bda9c
-ŸunkyŸr3sh1: IsHuman:1  Color:Yellow  ID:12  ActLike:Germany
-iran: IsHuman:1  Color:Red  ID:13  ActLike:USSR
+CRC[0]=e420822f
+CRC[1]=3035a7f3
+CRC[2]=936d50cf
+CRC[3]=936d17ee
+CRC[4]=936d4035
+CRC[5]=936d09e0
+CRC[6]=936d7c60
+CRC[7]=936d668b
+CRC[8]=936d0ad0
+CRC[9]=936d540c
+CRC[10]=936d418a
+CRC[11]=936d086f
+CRC[12]=936d6666
+CRC[13]=936d5077
+CRC[14]=8c6d307b
+CRC[15]=966d6ea7
+CRC[16]=c664424b
+CRC[17]=2eee500
+CRC[18]=f06a597
+CRC[19]=9afc3d47
+CRC[20]=37057f10
+CRC[21]=b30ca8d6
+CRC[22]=5f2386ec
+CRC[23]=6b30545e
+CRC[24]=673c3888
+CRC[25]=bb4fde73
+CRC[26]=985717b2
+CRC[27]=765adc2f
+CRC[28]=4c57d836
+CRC[29]=3265b1ad
+CRC[30]=163cf26
+CRC[31]=281c4056
+ira: IsHuman:1  Color:Yellow  ID:12  ActLike:Ukraine
+shon: IsHuman:1  Color:LtBlue  ID:13  ActLike:USSR
+Computer: IsHuman:0  Color:Red  ID:14  ActLike:Spain
+AzazelFace: IsHuman:1  Color:Green  ID:15  ActLike:England
 -------------------- Multi1 Infantry -------------------
-COORD:ffffffff   Facing:0   Mission:-1   Type:4   Tgt:d000002 Speed:0 NavCom:0
+COORD:50803780   Facing:32   Mission:5   Type:0   Tgt:d000000 Speed:0 NavCom:0
 -------------------- Multi2 Infantry -------------------
+COORD:12803680   Facing:128   Mission:5   Type:0   Tgt:d000001 Speed:0 NavCom:0
+-------------------- Multi3 Infantry -------------------
+COORD:6d805480   Facing:0   Mission:5   Type:0   Tgt:d000002 Speed:0 NavCom:0
+-------------------- Multi4 Infantry -------------------
+COORD:35b04e10   Facing:64   Mission:2   Type:0   Tgt:d000003 Speed:255 NavCom:9368538
 -------------------- Multi1 Units -------------------
 -------------------- Multi2 Units -------------------
+-------------------- Multi3 Units -------------------
+-------------------- Multi4 Units -------------------
 -------------------- Multi1 Vessels -------------------
 -------------------- Multi2 Vessels -------------------
+-------------------- Multi3 Vessels -------------------
+-------------------- Multi4 Vessels -------------------
 -------------------- Multi1 Buildings -------------------
-COORD:2c002f00   Facing:0   Mission:5   Type:11   Tgt:5000000
-COORD:29002c00   Facing:0   Mission:5   Type:17   Tgt:5000001
-COORD:26002900   Facing:0   Mission:5   Type:22   Tgt:5000004
-COORD:24002600   Facing:0   Mission:5   Type:22   Tgt:5000005
-COORD:ffffffff   Facing:0   Mission:-1   Type:22   Tgt:5000008
 -------------------- Multi2 Buildings -------------------
-COORD:21002100   Facing:0   Mission:19   Type:11   Tgt:5000002
-COORD:21002500   Facing:0   Mission:5   Type:17   Tgt:5000003
-COORD:25002300   Facing:0   Mission:5   Type:21   Tgt:5000006
-COORD:22002800   Facing:0   Mission:17   Type:21   Tgt:5000007
+-------------------- Multi3 Buildings -------------------
+-------------------- Multi4 Buildings -------------------
 -------------------- Animations -------------------
+Target:0 OwnerHouse:-1 Loops:1
 >>>> MAP LAYER 0 <<<<
 >>>> MAP LAYER 1 <<<<
-Object 0: 21002500 Building  (Type:17) Owner: Multi2
-Object 1: 22002800 Building  (Type:21) Owner: Multi2
-Object 2: 21002100 Building  (Type:11) Owner: Multi2
-Object 3: 24002600 Building  (Type:22) Owner: Multi1
-Object 4: 25002300 Building  (Type:21) Owner: Multi2
-Object 5: 26002900 Building  (Type:22) Owner: Multi1
-Object 6: 29002c00 Building  (Type:17) Owner: Multi1
-Object 7: 2c002f00 Building  (Type:11) Owner: Multi1
+Object 0: f004900 Terrain   (Type:15) Owner: NONE
+Object 1: 12803680 Infantry  (Type:0) Owner: Multi2
+Object 2: 14003f00 Terrain   (Type:19) Owner: NONE
+Object 3: 18004300 Terrain   (Type:9) Owner: NONE
+Object 4: 18004000 Terrain   (Type:18) Owner: NONE
+Object 5: 19004200 Terrain   (Type:10) Owner: NONE
+Object 6: 19003700 Terrain   (Type:19) Owner: NONE
+Object 7: 1a004d00 Terrain   (Type:17) Owner: NONE
+Object 8: 1c003100 Terrain   (Type:18) Owner: NONE
+Object 9: 1d004a00 Terrain   (Type:15) Owner: NONE
+Object 10: 26004100 Terrain   (Type:34) Owner: NONE
+Object 11: 2c004100 Terrain   (Type:34) Owner: NONE
+Object 12: 32003c00 Terrain   (Type:12) Owner: NONE
+Object 13: 32004300 Terrain   (Type:7) Owner: NONE
+Object 14: 33003b00 Terrain   (Type:15) Owner: NONE
+Object 15: 364053a1 Anim      (Type:51) Owner: NONE
+Object 16: 35b04e10 Infantry  (Type:0) Owner: Multi4
+Object 17: 39004200 Terrain   (Type:13) Owner: NONE
+Object 18: 3a003900 Terrain   (Type:17) Owner: NONE
+Object 19: 3e003e00 Terrain   (Type:19) Owner: NONE
+Object 20: 41004400 Terrain   (Type:18) Owner: NONE
+Object 21: 43004000 Terrain   (Type:34) Owner: NONE
+Object 22: 47004000 Terrain   (Type:18) Owner: NONE
+Object 23: 4b004100 Terrain   (Type:34) Owner: NONE
+Object 24: 50803780 Infantry  (Type:0) Owner: Multi1
+Object 25: 5d004200 Terrain   (Type:34) Owner: NONE
+Object 26: 67004100 Terrain   (Type:34) Owner: NONE
+Object 27: 69003600 Terrain   (Type:34) Owner: NONE
+Object 28: 6d805480 Infantry  (Type:0) Owner: Multi3
 >>>> MAP LAYER 2 <<<<
 >>>> MAP LAYER 3 <<<<
 >>>> LOGIC LAYER <<<<
-Object 0: 2c002f00 Building  (Type:11) Owner: Multi1
-Object 1: 21002100 Building  (Type:11) Owner: Multi2
-Object 2: 29002c00 Building  (Type:17) Owner: Multi1
-Object 3: 26002900 Building  (Type:22) Owner: Multi1
-Object 4: 21002500 Building  (Type:17) Owner: Multi2
-Object 5: 24002600 Building  (Type:22) Owner: Multi1
-Object 6: 25002300 Building  (Type:21) Owner: Multi2
-Object 7: 22002800 Building  (Type:21) Owner: Multi2
+Object 0: 41004400 Terrain   (Type:18) Owner: NONE
+Object 1: 47004000 Terrain   (Type:18) Owner: NONE
+Object 2: 1d004a00 Terrain   (Type:15) Owner: NONE
+Object 3: 18004000 Terrain   (Type:18) Owner: NONE
+Object 4: 18004300 Terrain   (Type:9) Owner: NONE
+Object 5: 19004200 Terrain   (Type:10) Owner: NONE
+Object 6: 3e003e00 Terrain   (Type:19) Owner: NONE
+Object 7: 32004300 Terrain   (Type:7) Owner: NONE
+Object 8: 32003c00 Terrain   (Type:12) Owner: NONE
+Object 9: 39004200 Terrain   (Type:13) Owner: NONE
+Object 10: 33003b00 Terrain   (Type:15) Owner: NONE
+Object 11: 3a003900 Terrain   (Type:17) Owner: NONE
+Object 12: 1c003100 Terrain   (Type:18) Owner: NONE
+Object 13: 19003700 Terrain   (Type:19) Owner: NONE
+Object 14: 1a004d00 Terrain   (Type:17) Owner: NONE
+Object 15: f004900 Terrain   (Type:15) Owner: NONE
+Object 16: 14003f00 Terrain   (Type:19) Owner: NONE
+Object 17: 2c004100 Terrain   (Type:34) Owner: NONE
+Object 18: 26004100 Terrain   (Type:34) Owner: NONE
+Object 19: 4b004100 Terrain   (Type:34) Owner: NONE
+Object 20: 43004000 Terrain   (Type:34) Owner: NONE
+Object 21: 67004100 Terrain   (Type:34) Owner: NONE
+Object 22: 5d004200 Terrain   (Type:34) Owner: NONE
+Object 23: 69003600 Terrain   (Type:34) Owner: NONE
+Object 24: 50803780 Infantry  (Type:0) Owner: Multi1
+Object 25: 12803680 Infantry  (Type:0) Owner: Multi2
+Object 26: 6d805480 Infantry  (Type:0) Owner: Multi3
+Object 27: 35b04e10 Infantry  (Type:0) Owner: Multi4
+Object 28: 364053a1 Anim      (Type:51) Owner: NONE
 
-Random Number:7bfef29e
-My Frame:1284
+Random Number:97f425b3
+My Frame:33
 
 Offending event:
   Type:         25
-  Frame:        1284
-  ID:           c
-  CRC:          ae63da9c
-  CommandCount: 40
-  Delay:        9
+  Frame:        33
+  ID:           d
+  CRC:          242cfd9c
+  CommandCount: 0
+  Delay:        6

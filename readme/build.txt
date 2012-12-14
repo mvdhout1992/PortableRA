@@ -7,14 +7,13 @@ This build was made by players for the players, that were struggling to play Red
 
 Key features are:
 
-	- Game manual included
 	- Counterstrike and Aftermath expansions included (both can be enabled/disabled)
 	- Better multi-core/SMP compatiblity
 	- Better Windows Vista/7 compatibility
 	- Better Wine compatibility
 	- CnCNet network server for 8player multiplayer
 	- Color fix also for non-ddraw.dll users
-	- Crash fixes (3.03p3)
+	- Crash fixes (3.03p3-iran)
 	- Multicore support
 	- Network command line argument -lan
 	- No CD required
@@ -26,14 +25,14 @@ Key features are:
 	- Fix for a few snow smudge tiles
 	- LAN patch to enable network games on modern operating systems
 	- New Red Alert/CnC-ddraw/CnCNet configuration tool called RedAlertConfig
-	- Fixed an issue with the Azaroid music track
+	- Fixed an issue with the Voice Rhythm 2 music track
 	- Added some extra tiles to the interior theatre
 	- Fixed "Don't Drink the Water" Afermath mission tutorial text
 		(the game tells you to destroy a building that needs to be captured)
-	- Mention rules.ini incompatiblity when trying to join a non-modded online game 
-		while having a custom rules.ini file loaded
-	- Fix for rare save game bug where the game thinks there's low disk space 
-		remaining while there's plenty
+	- Fixed missing shadow on Convoy Truck
+	- Ability to use expansion maps without having expansions enabled (thanks to FunkyFr3sh's map pack for this!)
+	- Launcher program
+	- Config tool
 	
 
 Dropped features:
