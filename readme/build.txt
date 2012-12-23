@@ -1,5 +1,5 @@
 -----------------------------------------------------------------------
-Unofficial Red Alert build by the community, updated on November 7, 2012.
+PortableRA Red Alert build by Iran and the community, updated on December 25, 2012.
 -----------------------------------------------------------------------
 http://redalert1.com - http://cncnet.org - http://redalert1.tk - http://cnc-comm.com
 
@@ -7,90 +7,66 @@ This build was made by players for the players, that were struggling to play Red
 
 Key features are:
 
+	- Comes with ra303p-iran patch
 	- Counterstrike and Aftermath expansions included (both can be enabled/disabled)
+	- Campaign files are moved to campaign.mix and completely optional now
 	- Better multi-core/SMP compatiblity
 	- Better Windows Vista/7 compatibility
 	- Better Wine compatibility
 	- CnCNet network server for 8player multiplayer
-	- Color fix also for non-ddraw.dll users
-	- Crash fixes (3.03p3-iran)
+	- Crash fixes
 	- Multicore support
 	- Network command line argument -lan
 	- No CD required
 	- No registry entries required
 	- Resolution stretching
-	- High resolution patch
+	- High resolution patch integrated
 	- Optional small infantry patch
 	- Fix for 'Situation Critical' mission
 	- Fix for a few snow smudge tiles
 	- LAN patch to enable network games on modern operating systems
-	- New Red Alert/CnC-ddraw/CnCNet configuration tool called RedAlertConfig
 	- Fixed an issue with the Voice Rhythm 2 music track
 	- Added some extra tiles to the interior theatre
 	- Fixed "Don't Drink the Water" Afermath mission tutorial text
 		(the game tells you to destroy a building that needs to be captured)
 	- Fixed missing shadow on Convoy Truck
 	- Ability to use expansion maps without having expansions enabled (thanks to FunkyFr3sh's map pack for this!)
-	- Launcher program
-	- Config tool
+	- Launcher program (RedAlertLauncher.exe)
+	- Config tool (RedALertConfig.exe)
+	- Fix missing shadow on Demolition Truck (taken from Arda by AlexB)
+	- Integrated support for The Lost Files movies
+	- Added support for adding custom music to the game dynamically, with an extra Red Alert music pack available
+	- Ability to play expansion multiplayer maps without having expansions enabled, or to show no official maps at all
+	- Fix mispelled Arazoid filename in game data files, causing the song not to be played in-game
+	- Fixed misspelling on the Missile Silo building cameo/icon (Fix by Nyerguds)
+	- Option to enable fast build speed when the Aftermath expansion is enabled, this makes the Aftermath build speed
+		like the classic game's build speed, that is without a cap after buying more than two of a production facility
+	- Language pack system to freely allow for switching the game's language when the needed language pack is installed
+	- Support for stretching of videos in both GDI and OpenGL mode when cnc-ddraw is enabled
+	- New multiplayer defaults code included in the patch, this allows you to configure the multiplayer settings
+		that the game starts up with, think of starting credits and whether crates are on/off, etc
+	- Video deinterlacing support (thanks to AlexB)
 	
-
 Dropped features:
 
 	- DOS support
-	- Game intro video
-	- Music
-	- Movies
+	- Music (stand-alone download now)
+	- Movies (stand-alone download now)
+	- Campaign (stand-alone download now)
 	- WOLapi
-	- Map editor
-	- rasetup.exe (replaced by new RedAlertConfig tool)
-
-Files
-----
-
-/ConfigToolFiles				- Folder with data files used by RedAlertConfig
-/ConfigToolFiles/pkt			- Folder with .pkt files, these are text files that control the multiplayer map list
-/readme							- Folder that contains readme text files
-main.mix                		- Stripped down game data file
-mpgdll.dll              		- Used by RA95.exe 3.03 and up
-RedAlertConfig.exe				- Red Alert configuration tool
-ra95.exe                		- Red Alert 95 version 3.03p3
-redalert.ini          			- Red Alert configuration file
-redalert.mix           	 		- Stripped down game data file
-cncnet.exe/ini          		- CnCNet, used for online play (cncnet.org)
-colorfix.reg					- Fixes colours, double click on this if you don't use CnC-ddraw (by ehy)
-ddraw.dll/ddraw.ini				- CnC-ddraw, used for online play (http://hifi.iki.fi/cnc-ddraw/
-wsock32.dll             		- CnCNet, used for online play (cncnet.org)
-/ConfigToolFiles/thipx32.dll	- LAN patch, enables use of LAN on modern operating systems
-/ConfigToolFiles/sc-*maps.mix	- Contains expansion maps
-/ConfigToolFiles/hires1.mix		- Contains optional small infantry patch, rename to disable
-/ConfigToolFiles/expand.mix		- Contains Counterstrike expansion data files
-/ConfigToolFiles/expand2.mix	- Contains Aftermath expansion data files
-/ConfigToolFiles/ForceAM.ini	- rules.ini "mod" to force the Aftermath expansion for multiplayer, 
-									all players need to have this rules.ini or they can't join,
-									you can't join other games hosted by people not running this mod
-
-ADDED PATCHES / FIXES
----------------------
-
-ra95.exe:
-    cpu-affinity-0	- by funky
-    cursor-fix-v2       - by hifi
-    deinterlace-01      - by hifi
-    movies2.mix-fix     - by hifi
-    no-cd               - by RA-Archive
-    no-expasions        - by hifi
-    ra303p2             - by hifi
-    wol-digest-valid	- by funky
-    wol-8p-default      - by hifi
-	fix save game bug	- by iran
-    
-        
-Changed on redalert.ini to avoid too fast scroll speed:
-        VideoBackBuffer=1
-
-Changed on redalert.ini to avoid color problem:
-        HardwareFills=0
+	- Map editor (stand-alone download now)
+	- rasetup.exe (replaced by new RedAlertConfig.exe config tool)
+	
+Thanks to:
+	- hifi: Original ra303p ("p-series") patch code, CnC-DDraw and CnCNet and the assembly
+		patching framework used by this patch
+	- CCHyper: Sharing his vast analysed Red Alert engine database with me and contributions to patch
+	- FunkyFr3sh: Lots of testing, suggestions, knowledge and various contributions such as the expansion 
+		maps converted to .MPR format
+	- Nyerguds: Contributions to the patch and sharing C&C95 engine knowledge, also compiled the The Lost
+		Files videos and made the fixed Missile Silo icon.
+	- AlexB: Various ideas, non-code fixes and addresses used for Arda's fixes taken from his
+		Arda project. In Additional lots of information taken from the Arda manual.
 
 Command & Conquer™ and Red Alert™ are registered trademarks of Electronic Arts, all rights reserved.
 The following base was taken from the freeware release of Command & Conquer™: Red Alert™ (http://www.commandandconquer.com/classic)

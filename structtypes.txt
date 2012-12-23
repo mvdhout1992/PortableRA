@@ -1,0 +1,20 @@
+StructTypes are just numbers:
+
+0 = tech center (allied?)
+1 = iron curtain
+2 = War Factory
+3 = Chronosphere
+4 = pill box
+5 = camo pill box
+6 = radar dome
+7 = gap gen
+8 = turret
+9 = aa gun
+10 = airfield
+11 = power plant
+12 = advanced power plant
+13 = soviet tech center
+14 = soviet barracks (not sure, dont think so)
+15 = soviet barracks (not sure, dont think so)
+16 = allies barracks
+17 = kennel
