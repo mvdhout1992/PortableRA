@@ -2,12 +2,12 @@ The following downloads are all ZIP files. Show the mirror's name when hyperlink
 
 Main games (includes the expansions):
 
-Red Alert Campaign:
+Red Alert Campaign (12.3 MB):
 https://dl.dropbox.com/u/21865790/Red%20Alert%20Campaign.zip
 http://www.mediafire.com/download.php?wwswwhbz204dq69
 http://www.putlocker.com/file/BFFBAF5DD958BF3E
 
-Red Alert Music (includes music from the expansions):
+Red Alert Music (96.5 MB, includes music from the expansions):
 https://dl.dropbox.com/u/21865790/Red%20Alert%20Music.zip
 http://www.mediafire.com/download.php?kw787m7v15q0hj0
 https://www.box.com/s/zpa25w0i27rwvu351u8q
@@ -18,93 +18,99 @@ http://www.putlocker.com/file/28E70544CD62E455
 https://dl.dropbox.com/u/21865790/Red%20Alert%20Videos.zip
 
 Red Alert Videos split into 4 files:
-Part 1: 
+Part 1 (108 MB, includes videos palettes): 
 https://dl.dropbox.com/u/21865790/Red%20Alert%20Videos%20Split%20Part%201.zip
 https://www.box.com/s/rk5kfupux5vxypzzx7vr
 http://www.mediafire.com/download.php?64i8jlc9tk04ocj
 http://www.putlocker.com/file/00F75CDA1EEC3CD3
 
-Part 2:
+Part 2 (146 MB):
 https://dl.dropbox.com/u/21865790/Red%20Alert%20Videos%20Split%20Part%202.zip
 https://www.box.com/s/ppqmzyg6k7nninh5j6iv
 http://www.mediafire.com/download.php?b8xi2622bybgx4j
 http://www.putlocker.com/file/9F7553CA8AB28D49
 
-Part 3:
+Part 3 (126 MB):
 https://dl.dropbox.com/u/21865790/Red%20Alert%20Videos%20Split%20Part%203.zip
 https://www.box.com/s/iat9wc1evsm0a74yrmx5
 http://www.mediafire.com/download.php?81qmslou27yuf6q
 http://www.putlocker.com/file/728CD4476680E467
 
-Part 4:
+Part 4 (99 MB):
 https://dl.dropbox.com/u/21865790/Red%20Alert%20Videos%20Split%20Part%204.zip
 http://www.mediafire.com/download.php?37s4op7pwi4zmb6
 https://www.box.com/s/u1x8fj83hpj6m5qifijt
 http://www.putlocker.com/file/F3BB01217BC5324E
 
-The Lost Files movies (adds extra movies from the PS1 only Retaliation expansion game, compiled by Nyerguds):
+The Lost Files movies (159 MB, adds extra movies from the PS1 only Retaliation expansion game, compiled by Nyerguds):
 https://dl.dropbox.com/u/21865790/Red%20Alert%20Movies%20TLF.zip
 http://www.mediafire.com/download.php?31j37i171bivsu6
 https://www.box.com/s/mup8ibzhv9r4drpk3q16
 http://www.putlocker.com/file/E8AC729D1E68A3D1
 
-Extra music (From the PS1 only Retaliation expansion game and unreleased songs):
+Extra music (43.1 MB, music from the PS1 only Retaliation expansion game and unreleased songs):
 http://www.putlocker.com/file/25687E60EFE0432F
 http://www.mediafire.com/download.php?1z41v9uz6mrbpqk
 https://www.box.com/s/zrs568e8dpkg0fu45no1
 https://dl.dropbox.com/u/21865790/Red%20Alert%20Music%20Extra.zip
 
-French Language Pack (untested):
+French Language Pack (3 MB, untested):
 https://dl.dropbox.com/u/21865790/Red%20Alert%20French%20Language%20Pack.zip
 https://www.box.com/s/fdqlqtr8ubv9gdd73y0l
 http://www.putlocker.com/file/8E7405C8F892D394
 
-German Language Pack (untested):
+German Language Pack (3.6 MB, untested):
 https://dl.dropbox.com/u/21865790/Red%20Alert%20German%20Language%20Pack.zip
 https://www.box.com/s/lkqr41iz77bula6t0jet
 http://www.putlocker.com/file/70E32739131DD375
 
-Russian Language Pack (untested,, looks kinda crappy):
+Russian Language Pack (0.3 MB, untested,, looks kinda crappy):
 https://dl.dropbox.com/u/21865790/Red%20Alert%20Russian%20Language%20Pack.zip
 http://www.mediafire.com/download.php?94wckpjs6fdpum6
 https://www.box.com/s/acjy5179jn6616egwkri
 http://www.putlocker.com/file/CD7DE8C174BBB373
 
-Spanish Language Pack (untested):
+Spanish Language Pack (1.6 MB, untested):
 https://dl.dropbox.com/u/21865790/Red%20Alert%20Spanish%20Language%20Pack.zip
 https://www.box.com/s/6zarwnq7bs5rgz17gxh5
 http://www.putlocker.com/file/74BEB02DFC6EA1B1
 http://www.mediafire.com/download.php?fc6fh3954glft6r
 
-Campaign savegames:
-http://www.putlocker.com/file/5259E43F0AFFBAE6
-https://www.box.com/s/x6jhglklsv0abcbtddlo
-http://www.mediafire.com/download.php?56ewtgos8wwdcdy
+Game's Manual (PDF, 9.2 MB):
+http://www.mediafire.com/view/?7mzobry9227mzvp
+https://www.box.com/s/10v25us3ija71a0cpkuo
+http://www.putlocker.com/file/77AD52F1AB3011DD
+https://dl.dropbox.com/u/21865790/Red%20Alert%20Manual.pdf
+
+Campaign savegames (8 MB):
+http://www.putlocker.com/file/DE0E846498E9FC78
+https://www.box.com/s/id642h27fki6dlt7o9a6
+http://www.mediafire.com/?cdnu4ozzv8oqh8e
 http://redalert95.tk/a/ra-save-games303.zip
 https://dl.dropbox.com/u/21865790/Red%20Alert%20Campaign%20Savegames.zip
 
-Map editor:
+Map editor (2.3 MB):
 http://forums.cncnz.com/topic/17389-raed-standalone/
 
 Theme pack for older Windows:
-Desktop Theme:
+Desktop Theme (1 MB):
 https://dl.dropbox.com/u/21865790/Red%20Alert%20Desktop%20Theme.zip
 http://www.mediafire.com/download.php?uunrcx6jgvhqdbw
 https://www.box.com/s/vjhl6zo5robeldbop725
 http://www.putlocker.com/file/1083A3BD8DD118C3
 
-Soviet Theme:
+Soviet Theme (1 MB):
 https://dl.dropbox.com/u/21865790/Red%20Alert%20Soviet%20Theme.zip
 https://www.box.com/s/7vz9db8d38furro7otf7
 http://www.mediafire.com/download.php?wzc1w23ytd3w9si
 http://www.putlocker.com/file/97F0ED0E895CE07F
 
-Allies Theme:
+Allies Theme (1 MB):
 https://dl.dropbox.com/u/21865790/Red%20Alert%20Allies%20Theme.zip
 https://www.box.com/s/h8v35awrqnmcespnjzlj
 http://www.mediafire.com/download.php?qwd7mr0afe856wu
 http://www.putlocker.com/file/B7227D663132D807
 
-Official Theme:
+Official Theme (1 MB):
 
 Theme Pack for Windows 7 (coming soon!)
