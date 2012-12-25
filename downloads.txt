@@ -1,10 +1,15 @@
 The following downloads are all ZIP files. Show the mirror's name when hyperlinking.
 
 Main games (includes the expansions):
+https://dl.dropbox.com/u/21865790/PortableRA%20Beta.zip
+http://www.putlocker.com/file/808471E93DBE4CAD
+https://www.box.com/s/yvthvtvk6pubr7n6e7xl
+http://www.mediafire.com/?725gsxan9igqr5a
 
 Red Alert Campaign (12.3 MB):
 https://dl.dropbox.com/u/21865790/Red%20Alert%20Campaign.zip
 http://www.mediafire.com/download.php?wwswwhbz204dq69
+https://www.box.com/s/z6yzu15aj7ff56el5khp
 http://www.putlocker.com/file/BFFBAF5DD958BF3E
 
 Red Alert Music (96.5 MB, includes music from the expansions):
@@ -58,11 +63,13 @@ French Language Pack (3 MB, untested):
 https://dl.dropbox.com/u/21865790/Red%20Alert%20French%20Language%20Pack.zip
 https://www.box.com/s/fdqlqtr8ubv9gdd73y0l
 http://www.putlocker.com/file/8E7405C8F892D394
+http://www.mediafire.com/?xpq88vkmoz8gh4a
 
 German Language Pack (3.6 MB, untested):
 https://dl.dropbox.com/u/21865790/Red%20Alert%20German%20Language%20Pack.zip
 https://www.box.com/s/lkqr41iz77bula6t0jet
 http://www.putlocker.com/file/70E32739131DD375
+http://www.mediafire.com/?beq652pbdci4rt1
 
 Russian Language Pack (0.3 MB, untested,, looks kinda crappy):
 https://dl.dropbox.com/u/21865790/Red%20Alert%20Russian%20Language%20Pack.zip
@@ -86,7 +93,6 @@ Campaign savegames (8 MB):
 http://www.putlocker.com/file/DE0E846498E9FC78
 https://www.box.com/s/id642h27fki6dlt7o9a6
 http://www.mediafire.com/?cdnu4ozzv8oqh8e
-http://redalert95.tk/a/ra-save-games303.zip
 https://dl.dropbox.com/u/21865790/Red%20Alert%20Campaign%20Savegames.zip
 
 Map editor (2.3 MB):
@@ -110,7 +116,5 @@ https://dl.dropbox.com/u/21865790/Red%20Alert%20Allies%20Theme.zip
 https://www.box.com/s/h8v35awrqnmcespnjzlj
 http://www.mediafire.com/download.php?qwd7mr0afe856wu
 http://www.putlocker.com/file/B7227D663132D807
-
-Official Theme (1 MB):
 
 Theme Pack for Windows 7 (coming soon!)
